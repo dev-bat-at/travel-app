@@ -1,4 +1,4 @@
-## TD VPN TRAVEL for Android
+## OCSEN TRAVEL for Android
 
 A Graphical user interface of [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) for Android
 

@@ -214,7 +214,7 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.provider.Telephony.SECRET_CODE" />
-                <!-- 252746382 is the name of TD VPN TRAVEL in T9 -->
+                <!-- 252746382 is the name of OCSEN TRAVEL in T9 -->
                 <data android:scheme="android_secret_code" android:host="252746382" />
             </intent-filter>
         </receiver>
